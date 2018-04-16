@@ -7,8 +7,8 @@
 -- Generation Time: Dec 12, 2017 at 04:50 AM
 -- Server version: 5.6.37
 -- PHP Version: 7.1.7
--- CREATE DATABASE `shopping_cart` /*!40100 DEFAULT CHARACTER SET latin1 */;
-use rashaatta;
+CREATE DATABASE `shopping_cart` /*!40100 DEFAULT CHARACTER SET latin1 */;
+use shopping_cart;
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;
