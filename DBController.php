@@ -3,13 +3,13 @@
 class DBController
 {
 
-    private $host = "mysql.cba.pl";
+    private $host = "localhost";
 
-    private $user = "rasha";
+    private $user = "root";
 
-    private $password = "Rasha123";
+    private $password = "123456789";
 
-    private $database = "rashaatta";
+    private $database = "shopping_cart";
 
     private static $conn;
 
